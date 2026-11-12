@@ -58,17 +58,14 @@
 ---
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nigiddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigiddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nigiddy&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7f50&currStreakLabel=58a6ff" height="165" alt="GitHub Streak" />
-</div>
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nigiddy&theme=github_dark" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nigiddy&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nigiddy&theme=github_dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Nigiddy&theme=github-dark-blue&hide_border=true" height="165"/>
+</p>
 
 ##  Let's Connect
 
