@@ -75,7 +75,7 @@ I'm currently open for frontend development roles, freelance backend/API contrac
 
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gideonpapa9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideonpapa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://www.gideonpapa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://gideonpapa.vercel.app/)
 
 <br/>
 
