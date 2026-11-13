@@ -8,7 +8,7 @@
   <em>I design and develop scalable web applications — from online ordering platforms and billing systems to payment-integrated SaaS tools and automation solutions. My focus is on turning ideas into products that solve real world problems.</em>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gideonpapa.me-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://www.gideonpapa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gideonpapa.me-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://www.gideonpapa.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gideon%20Papa-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideonpapa)
 [![GitHub](https://img.shields.io/badge/GitHub-Nigiddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nigiddy)
 
@@ -74,7 +74,7 @@ I'm currently open for frontend development roles, freelance backend/API contrac
 
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gideonpapa9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideonpapa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://gideonpapa.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://gideonpapa.tech/)
 
 <br/>
 
